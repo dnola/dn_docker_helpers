@@ -2,4 +2,4 @@
 # Running CIFAR:
 
 cd /home/ubuntu
-curl https://raw.githubusercontent.com/dnola/dn_docker_helpers/master/run_cifar10_x4.sh > run_cifar10_x4.sh && bash run_cifar10_x4.sh && echo -e ''
+curl https://raw.githubusercontent.com/dnola/dn_docker_helpers/master/run_mrbi_x3.sh > run_mrbi_x3.sh && bash run_mrbi_x3.sh && echo -e ''
